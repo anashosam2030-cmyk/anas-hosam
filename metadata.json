@@ -1,0 +1,7 @@
+{
+  "name": "Neural Quest: Task Master",
+  "description": "A high-stakes futuristic task management game where you use Neural Credits to complete AI-generated missions. Managed with the power of Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
